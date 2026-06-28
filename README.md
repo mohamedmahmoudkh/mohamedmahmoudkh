@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=200&section=header&text=Mohamed%20Mahmoud&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Machine%20Learning%20Engineer%20in%20the%20making&descAlignY=55&descSize=18" width="100%"/>
+<h1 align="center">Hi there, I'm Mohamed Mahmoud 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
