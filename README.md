@@ -107,6 +107,14 @@ I am continuously expanding my knowledge in **Machine Learning, Deep Learning, D
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohamedmahmoudkh/mohamedmahmoudkh/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
+---
+
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
