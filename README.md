@@ -1,140 +1,174 @@
-<h1 align="center">Hi there, I'm Mohamed Mahmoud 👋</h1>
+```markdown
+<h1 align="center">Hi, I'm Mohamed Mahmoud 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student+%40+MIU;AI+%26+Machine+Learning+Enthusiast;Turning+Data+Into+Decisions;Always+Debugging+Something+%F0%9F%90%9B;Probably+Training+a+Model+Right+Now...&font=Fira+Code&center=true&width=600&height=50&color=FFFFFF&vCenter=true&size=22&pause=1500" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Computer+Science+Student+%40+MIU;Building+Intelligent+Systems;Turning+Data+Into+Business+Insights" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-mahmoud013/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pft6/giphy.gif" width="280">
+---
+
+# 👨‍💻 About Me
+
+I'm a **Computer Science student specializing in Artificial Intelligence** at **Misr International University (MIU)**.
+
+I enjoy building **Machine Learning models**, **AI-powered applications**, and **customer analytics systems** that solve real business problems. My interests include Machine Learning, Data Science, AI Agents, and MLOps.
+
+- 🎓 Computer Science (AI), MIU
+- 🤖 Interested in AI, Machine Learning & Data Science
+- 🚀 Currently learning LLMs, AI Agents & MLOps
+- 💡 Passionate about turning data into business decisions
+
+---
+
+# 🚀 Featured Projects
+
+### 🏠 House Price Prediction System
+- Regression Model
+- Feature Engineering
+- Scikit-learn
+- Data Visualization
+
+---
+
+### 🛒 Customer Purchase Prediction
+- Classification Model
+- Customer Analytics
+- Machine Learning Pipeline
+- Business Insights
+
+---
+
+### 👥 Customer Segmentation AI
+- K-Means Clustering
+- PCA
+- Customer Behavior Analysis
+- Marketing Segmentation
+
+---
+
+### 📊 Customer Behavior Analysis
+- Data Cleaning
+- Exploratory Data Analysis
+- Predictive Analytics
+- Dashboard Visualization
+
+---
+
+### 🏥 Hospital Management System
+- Java
+- OOP
+- Database Management
+
+---
+
+### 👨‍💼 Employee Management System
+- Java
+- CRUD Operations
+- Database Design
+
+---
+
+# 🛠 Tech Stack
+
+### 🤖 Artificial Intelligence
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+
+---
+
+### 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" />
 </p>
 
 ---
 
-### 🧠 About Me
-
-I am a **Computer Science student specializing in Artificial Intelligence** at **Misr International University (MIU)**. I'm passionate about developing intelligent systems, leveraging machine learning to solve real-world problems, and building software that creates meaningful impact.
-
-Throughout my academic journey, I've gained hands-on experience in **AI, machine learning, software engineering, and web development** through both academic and freelance projects. I enjoy transforming data into actionable insights, designing scalable systems, and developing solutions that address real business challenges.
-
-I am continuously expanding my knowledge in **Machine Learning, Deep Learning, Data Science, and AI-powered applications**, always pushing myself to grow as an AI Engineer.
-
-- 🔭 Currently working on: AI-powered customer analytics & recommendation systems
-- 🌱 Currently learning: Deep Learning, Advanced ML systems & MLOps
-- 💬 Ask me about: Machine Learning, Data Analysis, Python, AI Systems
-- ⚡ Fun fact: I love turning raw data into decisions that actually matter
-
----
-
-### 🛠️ Technical Skills
-
-**Artificial Intelligence & Machine Learning**
+### 🌐 Web Development
 
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-</p>
-
-**Programming Languages**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-**Web Development**
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
-
-**Databases**
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-**Tools & DevOps**
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-**Other Skills**
-
-<p>
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4B8BBE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System%20Design-2E8B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Visualization-FF8C00?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=html,css,nodejs" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### ⚙️ Tools
 
-| Project | Description |
-|---|---|
-| 🏠 **House Price Prediction System** | Machine learning model to accurately estimate house prices based on property features. |
-| 🛍️ **Customer Purchase Prediction System** | Predictive model identifying customers most likely to purchase a product. |
-| 🎯 **Customer Segmentation AI System** | Clustering algorithms grouping customers by purchasing behavior & demographics for targeted marketing. |
-| 📊 **Customer Behavior Analysis using ML** | Analyzed customer data to uncover patterns and support business decision-making. |
-| 🏥 **Hospital Management System** | Full-featured system to manage hospital operations, patients, and staff records. |
-| 👨‍💼 **Employee Management System** | System for managing employee records, departments, and operations. |
-| 🎵 **Custom Windows Media Player** | A custom-built media player application. |
-| 🔢 **Binary Calculator (Digital Logic Design)** | Digital logic design project implementing binary arithmetic operations. |
-
-> 📌 *Check out my pinned repositories below for code and details on each project.*
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+</p>
 
 ---
 
-### 📈 GitHub Stats & Activity
+# 📚 Currently Learning
+
+- Large Language Models (LLMs)
+- AI Agents
+- OpenAI API Integration
+- REST APIs
+- MLOps
+- Deep Learning
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohamedmahmoudkh&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmahmoudkh&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedmahmoudkh&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmahmoudkh&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedmahmoudkh&theme=tokyonight&hide_border=true" />
-</p>
+---
+
+# 🎯 Career Goals
+
+- Build production-ready AI applications
+- Develop scalable Machine Learning systems
+- Create AI solutions that solve real-world business problems
+- Contribute to open-source AI projects
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedmahmoudkh&theme=tokyo-night&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedmahmoudkh&theme=tokyonight&no-frame=true&row=1&column=7" />
+<a href="https://www.linkedin.com/in/mohamed-mahmoud013/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamedmahmoudkh&style=for-the-badge&color=blueviolet" />
+<img src="https://komarev.com/ghpvc/?username=mohamedmahmoudkh&style=for-the-badge&color=blue"/>
 </p>
 
-<h3 align="center">📫 Let's Connect</h3>
-<p align="center">
-  Feel free to reach out — always open to discussing AI, Machine Learning, and interesting projects!
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=120&section=footer"/>
+```
